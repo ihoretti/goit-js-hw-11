@@ -1,8 +1,8 @@
 @import './common';
 // @import './example';
+@import './layout/header';
+@import './layout/gallery';
 @import './base/reset';
 @import './utils/mixins';
 @import './base/body';
 @import './base/container';
-@import './layout/header';
-@import './layout/gallery';
