@@ -3,7 +3,7 @@ import {
   noImagesFoundMessage,
   imagesFoundMessage,
   endOfSearchMessage,
-} from './js/notify';
+} from './js/Notify';
 import NewAPI from './js/API'; // импортирую класс
 import { createMarkup } from './js/createMarkup'; // шаблон разметки
 import LoadMoreBtn from './js/loadMoreBtn'; // импорт кнопки loadmorebtn
